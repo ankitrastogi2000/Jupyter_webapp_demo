@@ -1,8 +1,8 @@
 # jupyter_webapp_demo
-A tutorial supplement of the article "How to Create an Interactive Web Application using Jupyter Notebook".
+"Create an Interactive Web Application using Jupyter Notebook".
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nghweigeok/jupyter_webapp_demo/HEAD?urlpath=%2Fvoila%2Frender%2FDemo.ipynb)
 
-Try the demo here: https://mybinder.org/v2/gh/nghweigeok/jupyter_webapp_demo/HEAD?urlpath=%2Fvoila%2Frender%2FDemo.ipynb
 
-Complete blog article and video tutorial: https://blog.finxter.com/how-to-create-an-interactive-web-application-using-jupyter-notebook/
+Try the demo here: https://hub-binder.mybinder.ovh/user/ankitrastogi200-ter_webapp_demo-m3ujg0p6/voila/render/Demo.ipynb
+
+
